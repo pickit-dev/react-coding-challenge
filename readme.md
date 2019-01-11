@@ -18,7 +18,7 @@ You may make use of any additional technologies you feel are appropriate but Rea
 
 * Requested browser compatibility: IE11 and up, current versions of Chrome, FF, Safari.
 * The project must be in a git repository as you will demonstrate your ability to work with version control.
-* Follow the design as precisely as you can. A designer will validate the end result and functionality.
+* Follow the design as precisely as you can. A designer will also validate the end result and functionality.
 * You may split up the main component in as many sub-components as you see fit and necessary.
 * The whole component must also be fully usable when just using a keyboard.
 * Think of it as a component that will end up in a large, scalable react app. Consider this when writing HTML and CSS as well.
