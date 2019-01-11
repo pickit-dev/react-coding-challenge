@@ -1,4 +1,4 @@
-## Colony frontend coding challenge
+## Frontend coding challenge
 
 You'll be building a simple react component: an avatar picker. It looks like this:
 
