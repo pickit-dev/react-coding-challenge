@@ -32,7 +32,7 @@ You may make use of any additional technologies you feel are appropriate but Rea
 * You can either create a private repository on your favourite git hosting provider (github, gitlab, bitbucket) and then give access to
   * jacob.johansson@pickit.com
 * Or create a public repository and send the link to it.
-* Or send the whole repository, zipped (including the `.git` directory) to both of these email addresses.
+* Or send the whole repository, zipped (including the `.git` directory).
 * Important note: please only submit your work when it is completely done!
 
 Happy coding and good luck! :heart:
