@@ -16,15 +16,15 @@ You may make use of any additional technologies you feel are appropriate but Rea
 
 ### Requirements:
 
-* Requested browser compatibility: IE11 and up, current versions of Chrome, FF, Safari.
+* Current versions of Chrome, Firefox and Safari.
 * The project must be in a git repository as you will demonstrate your ability to work with version control.
 * Follow the design as precisely as you can. A designer will also validate the end result and functionality.
 * You may split up the main component in as many sub-components as you see fit and necessary.
 * The whole component must also be fully usable when just using a keyboard.
 * Think of it as a component that will end up in a large, scalable react app. Consider this when writing HTML and CSS as well.
 * You're NOT allowed to use any third party CSS libraries.
-* You're free to use any build tools that you like (including CSS pre/post-processors). Do not focus on the tooling though. Choose tools that get you going quickly (when you're unsure, [create-react-app](https://github.com/facebookincubator/create-react-app/) might work well for you).
-* Only use the image assets given in this repository and do not modify the files in any way.
+* You're free to use any build tools that you like (including CSS pre/post-processors). Do not focus on the tooling though.
+* Only use the image assets given in this repository.
 
 ### How to submit your results:
 
